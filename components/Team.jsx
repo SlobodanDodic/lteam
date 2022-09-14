@@ -15,7 +15,7 @@ const teams = [
     name: "Nikola Kokot",
     img: "/team/nikola.jpg",
     imgBg: "/team/nikolaBg.jpeg",
-    job: "Predavač, Ispitivač, Instruktor",
+    job: "Ispitivač, Instruktor",
     phone: "063 534 166",
     mail: "autoskolalteam@gmail.com",
     speed: 10,
