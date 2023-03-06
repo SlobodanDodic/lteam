@@ -20,24 +20,6 @@ const teams = [
     mail: "autoskolalteam@gmail.com",
     speed: 10,
   },
-  {
-    name: "Milan Bašić",
-    img: "/team/milan.jpg",
-    imgBg: "/team/milanBg.jpeg",
-    job: "Instruktor",
-    phone: "025 5101 101",
-    mail: "autoskolalteam@gmail.com",
-    speed: 40,
-  },
-  {
-    name: "Ivana Ferenčević",
-    img: "/team/ivana.jpg",
-    imgBg: "/team/ivanaBg.jpeg",
-    job: "Administracija",
-    phone: "025 5101 101",
-    mail: "autoskolalteam@gmail.com",
-    speed: 30,
-  },
 ];
 
 export default function Team() {

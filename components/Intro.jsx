@@ -19,7 +19,7 @@ export default function Intro() {
               KO JE L-TEAM?
             </Heading>
             <Text fontSize="sm">
-              Iako firma osnovana 2020-e godine, zajedno imamo preko 20 godina iskustva u sektoru saobraćaja i želimo to
+              Zajedno imamo preko 20 godina iskustva u sektoru saobraćaja i želimo to
               iskustvo da iskoristimo u svrhu prenošenja znanja budućim vozačima!
             </Text>
           </Box>
