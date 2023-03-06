@@ -34,7 +34,7 @@ export default function Team() {
         pb={"7"}
         mt="-5vh"
       >
-        Naš tim
+        L-Team osnivači
       </Heading>
       <Flex
         w="full"
